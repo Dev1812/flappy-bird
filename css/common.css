@@ -1,0 +1,9 @@
+
+@font-face{font-family:Myriad_set_pro_Thin;src:local(Myriad_set_pro_Thin),url(../fonts/myriad-set-pro_thin.woff)}
+html,body{margin:0;font-size:15px;margin:0;padding:0;background-color: #F7F9FB;
+  box-sizing:border-box;
+  font-family: "Myriad_set_pro_Thin","SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;}
+
+.content{text-align: center;padding:74px 0 ;}
+#canvas{box-shadow: 0 0 57px #808080; width:288px; height:512px;border-radius:24px;background-color:#FFF;}
+#title{margin-bottom:34px;font-size:17px;text-transform:uppercase;font-weight:bold;}
